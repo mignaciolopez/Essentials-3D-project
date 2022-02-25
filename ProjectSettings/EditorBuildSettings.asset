@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LavaScene.unity
+    guid: 168fc6e07c2783d488cf468168fdd45f
   m_configObjects: {}
